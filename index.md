@@ -10,3 +10,8 @@ Sheldon ist ein Nerd und lebt im Sünden der USA.  Er ist Wissenschaftler und ha
 * Wissenschaft
 * Hunde
 * woof
+
+
+as he sais
+> someting is nocht
+> so good here
